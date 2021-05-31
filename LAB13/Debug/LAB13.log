@@ -1,0 +1,3 @@
+﻿  LAB13.cpp
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB13\LAB13.cpp(15,32): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  LAB13.vcxproj -> C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB13\Debug\LAB13.exe

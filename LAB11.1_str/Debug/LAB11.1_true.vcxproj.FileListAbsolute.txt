@@ -1,0 +1,4 @@
+C:\Users\savvi\Desktop\Programs\LAB11.1_true\Debug\LAB11.1_true.exe
+C:\Users\savvi\Desktop\Programs\LAB11.1_true\Debug\LAB11.1_true.pdb
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB11.1_true\Debug\LAB11.1_true.exe
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB11.1_true\Debug\LAB11.1_true.pdb

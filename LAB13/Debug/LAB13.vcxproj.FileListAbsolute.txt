@@ -1,0 +1,4 @@
+C:\Users\savvi\Desktop\Programs\LAB13\Debug\LAB13.exe
+C:\Users\savvi\Desktop\Programs\LAB13\Debug\LAB13.pdb
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB13\Debug\LAB13.exe
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB13\Debug\LAB13.pdb

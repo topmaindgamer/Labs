@@ -1,0 +1,4 @@
+﻿  LAB12.cpp
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB12\LAB12.cpp(78,61): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB12\LAB12.cpp(148,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LAB12.vcxproj -> C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB12\Debug\LAB12.exe

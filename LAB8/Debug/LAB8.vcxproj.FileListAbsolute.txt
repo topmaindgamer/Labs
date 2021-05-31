@@ -1,0 +1,4 @@
+C:\Users\savvi\Desktop\Programs\LAB8\Debug\LAB8.exe
+C:\Users\savvi\Desktop\Programs\LAB8\Debug\LAB8.pdb
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB8\Debug\LAB8.exe
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB8\Debug\LAB8.pdb

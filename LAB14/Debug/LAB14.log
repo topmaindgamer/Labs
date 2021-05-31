@@ -1,0 +1,3 @@
+﻿  LAB14.cpp
+C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB14\LAB14.cpp(157,50): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  LAB14.vcxproj -> C:\Users\savvi\Desktop\Учеба\Инфа\Лабораторные\LAB14\Debug\LAB14.exe
